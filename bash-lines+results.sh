@@ -22,3 +22,7 @@ for i in $('ls'); do echo plik czy katalog: $i; done
 //plik czy katalog: Videos
 //plik czy katalog: VirtualBox
 //plik czy katalog: wstep.odt
+//note: the same for
+//$(ls);
+//or
+//$( ls );
